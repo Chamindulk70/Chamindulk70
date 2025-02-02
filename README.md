@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🔭 I'm Chamindu.
+🌱 A Computer Science undergraduate at the University of Ruhuna.
+
+⚡ Passionate about exploring the latest advancements in technology and always curious about how tech is shaping the future and eager to learn, experiment, and innovate.
+
 <!--
 **Chamindulk70/Chamindulk70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
