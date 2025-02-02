@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm Chamindu.
+🔭 I'm Chamindu.<br>
 🌱 A Computer Science undergraduate at the University of Ruhuna.
 
 ⚡ Passionate about exploring the latest advancements in technology and always curious about how tech is shaping the future and eager to learn, experiment, and innovate.
