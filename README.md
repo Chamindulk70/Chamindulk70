@@ -1,4 +1,4 @@
-## Hi there 👋
+?lines=##+Hi+there+👋
 
 🔭 I'm Chamindu.<br>
 🌱 A Computer Science undergraduate at the University of Ruhuna.
